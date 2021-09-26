@@ -1,5 +1,2 @@
-Gustavo;41
-Ana;22
-Pedro;55
-Paulo;95
-José;55
+José;35
+Nadia;43
