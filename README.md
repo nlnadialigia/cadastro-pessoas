@@ -28,17 +28,6 @@ O sistema só vai ter **2 opções**: `cadastrar` uma nova pessoa e `listar` tod
     - Arquivos com Python
     - Finalizando o projeto
 
-### 📌 Criando um menu em Python
-
-
-### 📌 Arquivos com Python
-
-
-### 📌 Finalizando o projeto
-
-
-
-
 # 👩‍💼 Author
 <img src=".github/picture.png" width="100px;" alt="Picture"/>
 <p><b>Nádia Ligia, budding back-end developer.</b></p>
